@@ -1,5 +1,5 @@
 {
-    "name": "Sline-X/bitrix24-api-hook",
+    "name": "sline-x/bitrix24-api-hook",
     "description": "A PHP library for the Bitrix24 REST API",
     "type": "composer-package",
     "keywords": ["bitrix", "bitrix24", "hook", "webhook"],
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SlineX\\Bitrix24ApiHook\\": "src/"
+            "Slinex\\Bitrix24ApiHook\\": "src/"
         }
     }
 }
