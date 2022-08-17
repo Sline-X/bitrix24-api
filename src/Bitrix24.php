@@ -1,6 +1,6 @@
 <?php
 
-namespace Sline\Bitrix24ApiHook;
+namespace SlineX\Bitrix24ApiHook;
 
 class Bitrix24
 {

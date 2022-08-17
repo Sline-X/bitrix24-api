@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sline\\Bitrix24ApiHook\\": "src/"
+            "SlineX\\Bitrix24ApiHook\\": "src/"
         }
     }
 }
